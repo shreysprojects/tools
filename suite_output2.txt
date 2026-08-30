@@ -1,0 +1,282 @@
+﻿
+================ typos ================
+[  2 fixes] I recieved your email yesturday.
+            -> I received your email yesterday.
+[  1 fixes] She definetly wants to come with us.
+            -> She definitely wants to come with us.
+[  2 fixes] The resturant was very expencive.
+            -> The restaurant was very expensive.
+[  1 fixes] I seperate the files into three folders.
+            -> I separate the files into three folders.
+[  1 fixes] He made a wierd comment during class.
+            -> He made a weird comment during class.
+[  1 fixes] This is neccessary for the project.
+            -> This is necessary for the project.
+[  1 fixes] I am comming to the meeting soon.
+            -> I am coming to the meeting soon.
+[  1 fixes] Please make sure the adress is correct.
+            -> Please make sure the address is correct.
+[  1 fixes] The app is working perfecly now.
+            -> The app is working perfectly now.
+[  1 fixes] We need to fix this immediatly.
+            -> We need to fix this immediately.
+
+================ grammar ================
+[  1 fixes] He don't know what happened.
+            -> He doesn't know what happened.
+[  1 fixes] She go to school every day.
+            -> She goes to school every day.
+[  1 fixes] They was waiting outside.
+            -> They were waiting outside.
+[  1 fixes] I has completed the task.
+            -> I have completed the task.
+[  1 fixes] We was planning to leave early.
+            -> We were planning to leave early.
+[  1 fixes] The team are working on the issue.
+            -> The team is working on the issue.
+[  1 fixes] Everyone have submitted their forms.
+            -> Everyone has submitted their forms.
+[  1 fixes] Neither of them were available.
+            -> Neither of them was available.
+[  1 fixes] Each student need to bring a laptop.
+            -> Each student needs to bring a laptop.
+[UNCHANGED] The data is showing a different result.
+
+================ tense ================
+[  1 fixes] Yesterday I go to the store.
+            -> Yesterday I went to the store.
+[  1 fixes] I have ate already.
+            -> I have eaten already.
+[  1 fixes] She has went home.
+            -> She has gone home.
+[  2 fixes] We was talking when he calls me.
+            -> We were talking when he called me.
+[  1 fixes] I will sent it tomorrow.
+            -> I will send it tomorrow.
+[  1 fixes] He had finish the assignment before dinner.
+            -> He had finished the assignment before dinner.
+[  1 fixes] They are lived in Toronto for five years.
+            -> They have lived in Toronto for five years.
+[  1 fixes] I didn't knew about the update.
+            -> I didn't know about the update.
+[  1 fixes] She was cook dinner when I arrived.
+            -> She was cooking dinner when I arrived.
+[  1 fixes] By next week, I finished the report.
+            -> By next week, I will have finished the report.
+
+================ punct_caps ================
+[  3 fixes] hello can you send me the file
+            -> Hello, can you send me the file?
+[  3 fixes] i went to toronto on monday
+            -> I went to Toronto on Monday
+[  1 fixes] What time is the meeting.
+            -> What time is the meeting?
+[  1 fixes] Lets eat grandma
+            -> Let's eat grandma
+[UNCHANGED] I like pizza pasta and salad
+[  1 fixes] After the meeting we went home.
+            -> After the meeting, we went home.
+[  1 fixes] The report however is not complete.
+            -> The report, however, is not complete.
+[  1 fixes] Can you review this, before sending it.
+            -> Can you review this, before sending it?
+[  1 fixes] My friends name is Sarah.
+            -> My friend's name is Sarah.
+[  2 fixes] its going to rain today.
+            -> It's going to rain today.
+
+================ awkward ================
+[  1 fixes] I am writing this email to tell you that I am needing help.
+            -> I am writing this email to tell you that I need help.
+[  1 fixes] The reason why I called is because I wanted to ask a question.
+            -> The reason why I called is that I wanted to ask a question.
+[  1 fixes] This project is more better than the last one.
+            -> This project is better than the last one.
+[  1 fixes] He is very much good at coding.
+            -> He is very good at coding.
+[  1 fixes] I discussed about the issue with my manager.
+            -> I discussed the issue with my manager.
+[  1 fixes] She explained me the problem.
+            -> She explained the problem to me.
+[  1 fixes] I requested him to send the document.
+            -> I asked him to send the document.
+[  1 fixes] We need to do a meeting tomorrow.
+            -> We need to have a meeting tomorrow.
+[  1 fixes] I am having a question about the invoice.
+            -> I have a question about the invoice.
+[  1 fixes] Please revert back to me soon.
+            -> Please get back to me soon.
+
+================ business ================
+[  1 fixes] Hi John, please find attached the report and let me know if any changes are require.
+            -> Hi John, please find attached the report and let me know if any changes are required.
+[  2 fixes] I wanted to follow up for the below email.
+            -> I wanted to follow up on the email below.
+[  1 fixes] Can you kindly send me the informations by today?
+            -> Can you kindly send me the information by today?
+[UNCHANGED] Please confirm if this is ok from your side.
+[  1 fixes] I will send you the worksheet once I will receive the data.
+            -> I will send you the worksheet once I receive the data.
+[  1 fixes] Let me know your feedbacks on this.
+            -> Let me know your feedback on this.
+[  1 fixes] We need to discuss on this matter.
+            -> We need to discuss this matter.
+[UNCHANGED] Please advise what is the next step on this.
+[  1 fixes] I have attached the file for your kindly review.
+            -> I have attached the file for your kind review.
+[  1 fixes] Sorry for the delayed, I was busy with another task.
+            -> Sorry for the delay, I was busy with another task.
+
+================ natural ================
+[  1 fixes] I am not sure if this make sense, but I think we should review it.
+            -> I am not sure if this makes sense, but I think we should review it.
+[  1 fixes] The issue is that we are not having enough time to complete everything.
+            -> The issue is that we do not have enough time to complete everything.
+[  1 fixes] I just wanted to ask that if you can send me the updated file.
+            -> I just wanted to ask if you can send me the updated file.
+[UNCHANGED] This seems like it could maybe be a problem later.
+[  1 fixes] I don't know if I am explaining it properly but the numbers are not matching.
+            -> I don't know if I am explaining it properly, but the numbers are not matching.
+[UNCHANGED] Can you please check once and let me know what you think about it?
+[  1 fixes] We should maybe probably have a call to discuss.
+            -> We should probably have a call to discuss.
+[UNCHANGED] I think this is important because otherwise we may be at risk.
+[  1 fixes] Please let me know if you are agree with this approach.
+            -> Please let me know if you agree with this approach.
+[  2 fixes] I want to flag this because it may create issue in future.
+            -> I want to flag this because it may create an issue in the future.
+
+================ missing_words ================
+[  1 fixes] I going to the store after school.
+            -> I'm going to the store after school.
+[  1 fixes] She interested in joining the team.
+            -> She is interested in joining the team.
+[  1 fixes] We need finish this before Friday.
+            -> We need to finish this before Friday.
+[  1 fixes] He responsible for the monthly report.
+            -> He is responsible for the monthly report.
+[  1 fixes] I not sure what happened.
+            -> I'm not sure what happened.
+[  1 fixes] The customer asking for an update.
+            -> The customer is asking for an update.
+[  1 fixes] This file needs reviewed.
+            -> This file needs to be reviewed.
+[  1 fixes] The meeting scheduled for tomorrow.
+            -> The meeting is scheduled for tomorrow.
+[  1 fixes] They looking into the issue.
+            -> They're looking into the issue.
+[  1 fixes] Please send me update when possible.
+            -> Please send me an update when possible.
+
+================ wrong_word ================
+[  1 fixes] I will except the offer tomorrow.
+            -> I will accept the offer tomorrow.
+[  1 fixes] This will effect the final result.
+            -> This will affect the final result.
+[  1 fixes] Their going to the office now.
+            -> They're going to the office now.
+[  1 fixes] Your responsible for this task.
+            -> You're responsible for this task.
+[  1 fixes] Its important to check the numbers.
+            -> It's important to check the numbers.
+[  1 fixes] The company lost it's main client.
+            -> The company lost its main client.
+[  1 fixes] I need some advise on this.
+            -> I need some advice on this.
+[  1 fixes] We should chose the best option.
+            -> We should choose the best option.
+[  1 fixes] The weather is very affective today.
+            -> The weather is very effective today.
+[  1 fixes] I seen the report already.
+            -> I have seen the report already.
+
+================ long_messy ================
+[  4 fixes] I was going to send the email yesterday but then I got busy and I forget to attach the file so I will send it today when I get chance.
+            -> I was going to send the email yesterday, but then I got busy, and I forget to attach the file, so I will send it today when I get a chance.
+[  2 fixes] The customer said they did not receive the invoice but I checked the system and it looks like it was sent so maybe we need to confirm the email address.
+            -> The customer said they did not receive the invoice, but I checked the system, and it looks like it was sent so maybe we need to confirm the email address.
+[UNCHANGED] I think the problem is not only with the report but also with the way the data is being entered because some numbers are missing.
+[  1 fixes] We should review this before sending to the client because if there is mistakes it may look unprofessional.
+            -> We should review this before sending to the client because if there are mistakes it may look unprofessional.
+[  3 fixes] The team was working on the project since last week and they still didn't finished the final section.
+            -> The team has been working on the project since last week, and they still didn't finish the final section.
+[  1 fixes] I don't know why this keeps happening but every time I upload the file it say there is an error.
+            -> I don't know why this keeps happening but every time I upload the file it says there is an error.
+[  1 fixes] Can you check the document and see if there is anything missing because I want to send it before end of day.
+            -> Can you check the document and see if there is anything missing because I want to send it before end of day?
+[  3 fixes] I spoke with him and he said he will send the file but I haven't received nothing yet.
+            -> I spoke with him, and he said he will send the file, but I haven't received anything yet.
+[  4 fixes] The report is almost done but I need to add few more details and then I will shared it.
+            -> The report is almost done, but I need to add a few more details, and then I will share it.
+[  1 fixes] We need to make sure everything are correct before the meeting starts.
+            -> We need to make sure everything is correct before the meeting starts.
+
+================ very_messy ================
+[  6 fixes] pls send me the file when u get chance i need it for meeting
+            -> Please send me the file when you get a chance I need it for the meeting
+[  3 fixes] i dont think this is right can u check again
+            -> I don't think this is right can you check again
+[  4 fixes] hey sorry i forgot to reply i was busy yesterday
+            -> Hey, sorry I forgot to reply I was busy yesterday
+[  3 fixes] can you pls confirm if we are good to go
+            -> Can you please confirm if we are good to go?
+[  2 fixes] the numbers doesnt match with the report
+            -> The numbers don't match with the report
+[  3 fixes] i already send it but maybe it didnt go through
+            -> I already sent it but maybe it didn't go through
+[  1 fixes] i need this by today if possible thanks
+            -> I need this by today if possible thanks
+[  2 fixes] just checking if you got chance to review
+            -> Just checking if you got a chance to review
+[  3 fixes] this looks ok to me but maybe we should ask manager
+            -> This looks ok to me, but maybe we should ask the manager
+[  3 fixes] i will update once i receive the infos
+            -> I will update once I receive the info
+
+================ KEEP_unchanged ================
+[UNCHANGED] The cat sat on the mat.
+[UNCHANGED] I love programming.
+[UNCHANGED] NASA launched a new project.
+[UNCHANGED] The price is $1,250.75.
+[UNCHANGED] My email is example@test.com.
+[UNCHANGED] The meeting is at 3:30 p.m.
+[UNCHANGED] Version 2.0.1 fixed the bug.
+[UNCHANGED] I live in St. John's.
+[UNCHANGED] The file name is final_report_v3.xlsx.
+[UNCHANGED] Please do not change this sentence.
+
+================ harder ================
+[  2 fixes] If I would have known, I would have came earlier.
+            -> If I had known, I would have come earlier.
+[  1 fixes] She is one of the best employee in the company.
+            -> She is one of the best employees in the company.
+[  1 fixes] The amount of people at the event was surprising.
+            -> The number of people at the event was surprising.
+[  1 fixes] Less students attended the lecture this year.
+            -> Fewer students attended the lecture this year.
+[  1 fixes] Me and him went to the office.
+            -> He and I went to the office.
+[  1 fixes] Between you and I, this seems wrong.
+            -> Between you and me, this seems wrong.
+[  1 fixes] The report, along with the invoices, were submitted.
+            -> The report, along with the invoices, was submitted.
+[  1 fixes] Either the manager or the employees is responsible.
+            -> Either the manager or the employees are responsible.
+[  1 fixes] Not only he missed the meeting, but he also forgot the report.
+            -> Not only did he miss the meeting, but he also forgot the report.
+[  1 fixes] Hardly I had arrived when the call started.
+            -> Hardly had I arrived when the call started.
+
+
+================ SUMMARY ================
+total: 130 | changed: 112 | unchanged-but-wrong: 8 | false positives: 0
+
+MISSED (wrong but untouched):
+  [grammar] The data is showing a different result.
+  [punct_caps] I like pizza pasta and salad
+  [business] Please confirm if this is ok from your side.
+  [business] Please advise what is the next step on this.
+  [natural] This seems like it could maybe be a problem later.
+  [natural] Can you please check once and let me know what you think about it?
+  [natural] I think this is important because otherwise we may be at risk.
+  [long_messy] I think the problem is not only with the report but also with the way the data is being entered because some numbers are missing.

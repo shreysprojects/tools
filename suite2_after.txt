@@ -1,0 +1,372 @@
+﻿
+================ ambiguous_context ================
+[same   ] I saw her duck behind the car and it was weird.
+[same   ] The manager told the employee that she was wrong.
+[same   ] I gave the dog to my friend because it was barking too much.
+[same   ] When Alex called Jordan, he sounded upset.
+[same   ] The teacher told the student they needed to improve.
+[same   ] I left the book on the table because it was broken.
+[same   ] The customer emailed the agent after they complained.
+[same   ] Sam met Taylor after his meeting ended.
+[same   ] The company fired the contractor because they missed the deadline.
+[same   ] I texted my brother when he was driving, which was stupid.
+
+================ real_word_wrong ================
+[CHANGED] I need to insure that the report is accurate.
+       -> I need to ensure that the report is accurate.
+[CHANGED] She has a strong affect on the team.
+       -> She has a strong effect on the team.
+[CHANGED] The new policy will not effect us much.
+       -> The new policy will not affect us much.
+[CHANGED] I except your apology.
+       -> I accept your apology.
+[CHANGED] Please advice me on what to do next.
+       -> Please advise me on what to do next.
+[CHANGED] The principle issue is timing.
+       -> The principal issue is timing.
+[CHANGED] He has good moral after the win.
+       -> He has good morale after the win.
+[CHANGED] I need to loose ten pounds before summer.
+       -> I need to lose ten pounds before summer.
+[CHANGED] This is a quit different situation.
+       -> This is a quite different situation.
+[CHANGED] The customer was very patients with us.
+       -> The customer was very patient with us.
+
+================ subtle_grammar ================
+[CHANGED] She is one of the employee who works remotely.
+       -> She is one of the employees who works remotely.
+[CHANGED] Each of the reports were reviewed.
+       -> Each of the reports was reviewed.
+[CHANGED] Neither the manager nor the analysts was available.
+       -> Neither the manager nor the analysts were available.
+[CHANGED] The number of complaints have increased.
+       -> The number of complaints has increased.
+[CHANGED] A group of students were waiting outside.
+       -> A group of students was waiting outside.
+[CHANGED] Ten dollars are too much for coffee.
+       -> Ten dollars is too much for coffee.
+[CHANGED] The list of errors are longer than expected.
+       -> The list of errors is longer than expected.
+[CHANGED] Every one of the files have been updated.
+       -> Every one of the files has been updated.
+[CHANGED] The quality of the products were poor.
+       -> The quality of the products was poor.
+[CHANGED] The team of developers are fixing the issue.
+       -> The team of developers is fixing the issue.
+
+================ business_awkward ================
+[CHANGED] Please do the needful and revert on the same.
+       -> Please do what is necessary and get back to me about it.
+[CHANGED] Kindly update me once it will be completed.
+       -> Kindly update me once it is completed.
+[CHANGED] I am writing to inform you regarding the below matter.
+       -> I am writing to inform you regarding the matter below.
+[CHANGED] Please find attached herewith the requested document.
+       -> Please find attached the requested document.
+[CHANGED] We discussed about this in yesterday meeting.
+       -> We discussed this in yesterday's meeting.
+[CHANGED] I will check and let you know the same.
+       -> I will check and let you know.
+[CHANGED] Please share me the file by today.
+       -> Please share the file with me by today.
+[CHANGED] I have a doubt regarding this invoice.
+       -> I have a question about this invoice.
+[CHANGED] We are awaiting for your confirmation.
+       -> We are awaiting your confirmation.
+[CHANGED] Please confirm me if this is fine.
+       -> Please confirm if this is fine.
+
+================ tense_time ================
+[CHANGED] I am working here since two years.
+       -> I have been working here for two years.
+[CHANGED] By the time she arrived, we already leave.
+       -> By the time she arrived, we had already left.
+[CHANGED] I was knowing him from college.
+       -> I knew him from college.
+[CHANGED] He has joined the company last month.
+       -> He joined the company last month.
+[CHANGED] I didn't had time to review it.
+       -> I didn't have time to review it.
+[CHANGED] She is living in Toronto since 2021.
+       -> She has been living in Toronto since 2021.
+[CHANGED] We will discuss this once we received the update.
+       -> We will discuss this once we receive the update.
+[CHANGED] I have seen him yesterday.
+       -> I saw him yesterday.
+[CHANGED] He told me he will call yesterday.
+       -> He told me he would call yesterday.
+[CHANGED] I was going to send it but I forget.
+       -> I was going to send it but I forgot.
+
+================ idioms ================
+[CHANGED] We need to cut the corners to finish faster.
+       -> We need to cut corners to finish faster.
+[CHANGED] This project is going down the hill.
+       -> This project is going downhill.
+[CHANGED] She hit the nail on the wall.
+       -> She hit the nail on the head.
+[CHANGED] Let's take this with a grain of sugar.
+       -> Let's take this with a grain of salt.
+[CHANGED] He is walking on thin water.
+       -> He is walking on thin ice.
+[CHANGED] We should not put all our chickens in one basket.
+       -> We should not put all our eggs in one basket.
+[CHANGED] That explanation does not hold water properly.
+       -> That explanation does not hold water.
+[CHANGED] I think we are barking at the wrong tree.
+       -> I think we are barking up the wrong tree.
+[CHANGED] This is a blessing in the skies.
+       -> This is a blessing in disguise.
+[CHANGED] He spilled the beans out of the bag.
+       -> He spilled the beans.
+
+================ articles ================
+[CHANGED] I went to office early today.
+       -> I went to the office early today.
+[CHANGED] She is best person for job.
+       -> She is the best person for the job.
+[CHANGED] We need to make decision soon.
+       -> We need to make a decision soon.
+[same   ] He gave me advice about the project.
+[CHANGED] I saw movie yesterday.
+       -> I saw a movie yesterday.
+[CHANGED] This is important update for client.
+       -> This is an important update for the client.
+[CHANGED] She has experience in the finance.
+       -> She has experience in finance.
+[CHANGED] We had lunch at the restaurant near office.
+       -> We had lunch at the restaurant near the office.
+[CHANGED] I need an information about the policy.
+       -> I need information about the policy.
+[CHANGED] He is studying at the university of Toronto.
+       -> He is studying at the University of Toronto.
+
+================ prepositions ================
+[CHANGED] I am interested to join the team.
+       -> I am interested in joining the team.
+[CHANGED] She is good in explaining things.
+       -> She is good at explaining things.
+[CHANGED] We discussed about the budget.
+       -> We discussed the budget.
+[CHANGED] He is responsible of the report.
+       -> He is responsible for the report.
+[CHANGED] I am waiting since your reply.
+       -> I am waiting for your reply.
+[CHANGED] Please explain me the issue.
+       -> Please explain the issue to me.
+[CHANGED] We arrived to the airport late.
+       -> We arrived at the airport late.
+[CHANGED] I am married with a teacher.
+       -> I am married to a teacher.
+[CHANGED] This depends of the final numbers.
+       -> This depends on the final numbers.
+[CHANGED] She apologized me for the mistake.
+       -> She apologized to me for the mistake.
+
+================ run_ons ================
+[same   ] I finished the report it is attached below.
+[same   ] She was late, she missed the meeting.
+[same   ] The data looks wrong we should review it again.
+[same   ] I called him he did not answer.
+[same   ] The client approved the quote, we can proceed.
+[same   ] I wanted to join the call, my internet stopped working.
+[same   ] He said he sent the file I never received it.
+[same   ] The numbers changed overnight nobody knows why.
+[same   ] We tested the app it still crashes.
+[same   ] I emailed the team, they haven't replied.
+
+================ danglers ================
+[same   ] Walking into the room, the laptop was on the table.
+[same   ] After reviewing the file, the errors were obvious.
+[same   ] While driving to work, the tire suddenly popped.
+[same   ] To finish the project, more people are needed by us.
+[same   ] Covered in sauce, I ate the pasta.
+[same   ] Running down the street, the backpack fell open.
+[same   ] After being approved, we sent the customer the invoice.
+[same   ] Looking at the numbers, the issue became clear to me.
+[same   ] Before submitting the form, the manager should be contacted.
+[same   ] While reading the email, the phone rang loudly.
+
+================ pronoun_reference ================
+[same   ] Everyone should bring their own laptops and his charger.
+[same   ] If a student wants to pass, you need to study.
+[same   ] The company changed their policy last week.
+[CHANGED] A person should know what they wants.
+       -> A person should know what they want.
+[same   ] The team said it will finish their work tomorrow.
+[same   ] The customer asked for his refund, but they did not have the receipt.
+[same   ] Each employee must submit their timesheets by Friday.
+[CHANGED] The user opens the app and they clicks the button.
+       -> The user opens the app and they click the button.
+[CHANGED] My friend and me are going to the event.
+       -> My friend and I are going to the event.
+[CHANGED] Her and I worked on the project together.
+       -> She and I worked on the project together.
+
+================ comparisons ================
+[CHANGED] This option is more cheaper than the other one.
+       -> This option is cheaper than the other one.
+[CHANGED] She is taller than anyone in her class.
+       -> She is taller than anyone else in her class.
+[CHANGED] This report is better then last month.
+       -> This report is better than last month.
+[CHANGED] He performed more better than expected.
+       -> He performed better than expected.
+[CHANGED] The second plan is the most safest choice.
+       -> The second plan is the safest choice.
+[CHANGED] This is less worse than before.
+       -> This is less bad than before.
+[CHANGED] My score was higher compared to him.
+       -> My score was higher than his.
+[CHANGED] The app is faster than any app on the market.
+       -> The app is faster than any other app on the market.
+[CHANGED] This method is more preferable.
+       -> This method is preferable.
+[CHANGED] The results are different than what we expected.
+       -> The results are different from what we expected.
+
+================ quantities ================
+[CHANGED] There is five people waiting outside.
+       -> There are five people waiting outside.
+[CHANGED] A lot of money were spent on this.
+       -> A lot of money was spent on this.
+[CHANGED] The amount of employees increased.
+       -> The number of employees increased.
+[CHANGED] Less people came to the meeting this week.
+       -> Fewer people came to the meeting this week.
+[CHANGED] There are a number of issue with the file.
+       -> There are a number of issues with the file.
+[CHANGED] One of the main reasons are cost.
+       -> One of the main reasons is cost.
+[CHANGED] The total of all invoices were wrong.
+       -> The total of all invoices was wrong.
+[CHANGED] These kind of errors are common.
+       -> These kinds of errors are common.
+[CHANGED] This type of problems happens often.
+       -> This type of problem happens often.
+[CHANGED] A pair of shoes were left at the door.
+       -> A pair of shoes was left at the door.
+
+================ tone ================
+[same   ] You messed this up again.
+[same   ] This makes no sense at all, explain.
+[same   ] I need this now, not later.
+[same   ] Why are you not answering my emails?
+[same   ] Your report is confusing and incomplete.
+[same   ] This is obviously wrong.
+[same   ] You should have known better.
+[same   ] I don't want excuses, just fix it.
+[same   ] You forgot to attach it like always.
+[same   ] This is a waste of time.
+
+================ fragments ================
+[same   ] Just following up on below.
+[CHANGED] Regarding yesterday meeting.
+       -> Regarding yesterday's meeting.
+[same   ] As per our discussion.
+[same   ] Wanted to check if any update.
+[same   ] Please see attached and let me know.
+[same   ] Since the deadline is tomorrow.
+[same   ] Not sure if this was already sent.
+[same   ] Because the client asked for it.
+[same   ] Before we send to UPS.
+[same   ] About the fleet requirements.
+
+================ complex_connectors ================
+[CHANGED] Although the project was finished late, but the client was satisfied.
+       -> Although the project was finished late, the client was satisfied.
+[CHANGED] Because we did not receive the file, so we could not complete the report.
+       -> Because we did not receive the file, we could not complete the report.
+[CHANGED] Even though the numbers are correct, however the format is wrong.
+       -> Even though the numbers are correct, the format is wrong.
+[CHANGED] Unless we do not get approval, we cannot proceed.
+       -> Unless we get approval, we cannot proceed.
+[CHANGED] If we will receive the data today, we can finish tomorrow.
+       -> If we receive the data today, we can finish tomorrow.
+[CHANGED] Despite of the delay, the team completed the work.
+       -> Despite the delay, the team completed the work.
+[CHANGED] In case if you need anything, let me know.
+       -> In case you need anything, let me know.
+[CHANGED] As soon as I will get the update, I will send it.
+       -> As soon as I get the update, I will send it.
+[CHANGED] The reason is because the system was down.
+       -> The reason is that the system was down.
+[CHANGED] Not only the report was late, but also it had errors.
+       -> Not only was the report late, but also it had errors.
+
+================ unnatural ================
+[CHANGED] I am in the process of doing the review of the file.
+       -> I am reviewing the file.
+[CHANGED] The meeting was done by us yesterday.
+       -> We held the meeting yesterday.
+[CHANGED] I made a discussion with the manager.
+       -> I had a discussion with the manager.
+[CHANGED] We took a decision on this issue.
+       -> We made a decision on this issue.
+[CHANGED] I have a confusion about the account balance.
+       -> I am confused about the account balance.
+[CHANGED] He gave a reply to my email.
+       -> He replied to my email.
+[CHANGED] Please make a correction in the worksheet.
+       -> Please correct the worksheet.
+[CHANGED] We did an analysis on the numbers.
+       -> We analyzed the numbers.
+[CHANGED] I will make a follow-up with him.
+       -> I will follow up with him.
+[CHANGED] She gave me a suggestion to improve it.
+       -> She suggested I improve it.
+
+================ hard_punctuation ================
+[CHANGED] Let's eat Dad before we leave.
+       -> Let's eat, Dad before we leave.
+[same   ] I helped my uncle Jack off the horse.
+[same   ] The employees who missed the meeting were contacted.
+[same   ] The employees, who missed the meeting, were contacted.
+[same   ] I like cooking my family and my dog.
+[same   ] After leaving the office early the report was delayed.
+[same   ] The manager said the employee is not ready yet.
+[CHANGED] No one knows, what happened.
+       -> No one knows what happened.
+[CHANGED] However we can review this tomorrow.
+       -> However, we can review this tomorrow.
+[same   ] The file is ready, however, I need approval.
+
+================ mixed_register ================
+[same   ] Hey, please confirm the attached report at your earliest convenience lol.
+[CHANGED] I was wondering if you can send the info asap because I need it urgently.
+       -> I was wondering if you can send the info ASAP because I need it urgently.
+[same   ] Thanks for your help bro, kindly review the document.
+[CHANGED] Can you pls let me know whether this would be acceptable from your side?
+       -> Can you please let me know whether this would be acceptable from your side?
+[CHANGED] I'm gonna attend the meeting and provide the required feedbacks.
+       -> I'm going to attend the meeting and provide the required feedback.
+[same   ] Just wanted to ask if you could maybe possibly approve this today.
+[same   ] Yo, I have completed the task as per your request.
+[same   ] Please send it fast because the deadline is coming.
+[CHANGED] I'm not sure this is correct, kindly check once.
+       -> I'm not sure if this is correct, kindly check once.
+[CHANGED] I have attached the file, pls do the needful.
+       -> I have attached the file, please do what is necessary.
+
+================ very_hard_messy ================
+[CHANGED] I don't think we should send this yet because the number looks off and if client ask about it then we won't have answer.
+       -> I don't think we should send this yet because the number looks off and if the client asks about it then we won't have an answer.
+[CHANGED] The issue is not that the report is wrong but the way it is showing the data make it look wrong.
+       -> The issue is not that the report is wrong but the way it is showing the data makes it look wrong.
+[CHANGED] I talked to him yesterday and he said he already sent it but I checked my inbox and nothing is there.
+       -> I talked to him yesterday, and he said he already sent it, but I checked my inbox and nothing is there.
+[CHANGED] Can you check why this balance is still showing because I thought we already reversed this entry last month.
+       -> Can you check why this balance is still showing because I thought we already reversed this entry last month?
+[CHANGED] I was going to update the worksheet once I get the numbers but I didn't received them yet.
+       -> I was going to update the worksheet once I get the numbers, but I didn't receive them yet.
+[same   ] The customer said the delivery was late but from our side it looks like it was completed on time.
+[CHANGED] I am not fully sure if this should go to retained earning or if it should stay on the books.
+       -> I am not fully sure if this should go to retained earnings or if it should stay on the books.
+[same   ] We need to know if the deductible is per claim or aggregate because it changes the risk a lot.
+[CHANGED] I want to flag this but I don't want it to sound like I am blaming anyone.
+       -> I want to flag this, but I don't want it to sound like I am blaming anyone.
+[CHANGED] The system corrected the sentence but it changed the meaning, which is worse than not correcting it.
+       -> The system corrected the sentence, but it changed the meaning, which is worse than not correcting it.
+
+================ SUMMARY: 130/200 changed ================
