@@ -5,22 +5,22 @@
   4. "There" points to a place; "their" shows ownership (e.g. "their new door").
   5. "Its" shows ownership; here you need "it's" (= "it is" / "it has").
   6. "Your" shows ownership; here you need "you're" (= "you are").
-  7. "Of" after "should/could/would" is a common mistake — the correct word is "have".
+  7. "Of" after "should/could/would" is a common mistake - the correct word is "have".
   8. "Except" means "excluding"; to take something offered is to "accept" it.
   9. "Affective" relates to emotions; "effective" means it works well.
- 10. "Feedback" is uncountable in English — no plural "s".
+ 10. "Feedback" is uncountable in English - no plural "s".
  11. Ownership needs an apostrophe: "my friend's name".
  12. "She/he/it" takes "doesn't", not "don't".
  13. Double negative: with a negative verb use "anything/anybody", not "nothing/nobody".
- 14. Words like "everyone/someone" are singular — they take "has", not "have".
- 15. "Each ..." is singular — it takes "needs".
- 16. "Neither" is singular — it takes "was", not "were".
- 17. In American English a group word like "team" is singular — "the team is".
- 18. "Everything" is singular — it takes "is/was".
- 19. "This/that" is singular — it takes "makes".
+ 14. Words like "everyone/someone" are singular - they take "has", not "have".
+ 15. "Each ..." is singular - it takes "needs".
+ 16. "Neither" is singular - it takes "was", not "were".
+ 17. In American English a group word like "team" is singular - "the team is".
+ 18. "Everything" is singular - it takes "is/was".
+ 19. "This/that" is singular - it takes "makes".
  20. A plural follows, so it needs "there are/were".
- 21. With "or", the verb agrees with the nearer subject — plural here, so "are".
- 22. The real subject is singular — "along with ..." doesn't make it plural.
+ 21. With "or", the verb agrees with the nearer subject - plural here, so "are".
+ 22. The real subject is singular - "along with ..." doesn't make it plural.
  23. "They/we/you" take "were", not "was".
  24. Ownership uses "its" (no apostrophe): "its main client".
  25. Ongoing past action needs -ing: "was cooking dinner".
@@ -29,7 +29,7 @@
  28. An action continuing "since..." uses "has/have been doing".
  29. Both actions are in the past: "was talking when he called".
  30. A plural subject takes "don't", not "doesn't".
- 31. "Already" means it happened — use the past form "sent".
+ 31. "Already" means it happened - use the past form "sent".
  32. Missing word: "get a chance".
  33. Missing word: "a few".
  34. "Info" has no plural "s".
@@ -40,12 +40,12 @@
  39. "Revert" means to go back to a previous state; for replies say "get back to me".
  40. Missing word: "for the meeting".
  41. After "have/has/had" use the participle form (e.g. "have gone", not "have went").
- 42. In "if" clauses, use "if I had known" — not "if I would have known".
+ 42. In "if" clauses, use "if I had known" - not "if I would have known".
  43. No "will" inside a time clause: "once I receive", not "once I will receive".
  44. No "will" inside a time clause: "once it is completed", not "once it will be completed".
  45. For duration use "have lived", not "are lived".
  46. For duration use "has lived", not "is lived".
- 47. "Yesterday" is past — use "went".
+ 47. "Yesterday" is past - use "went".
  48. A future deadline needs "will have finished".
  49. After "Not only" at the start, flip the word order: "Not only did he miss...".
  50. After "Hardly", flip the word order: "Hardly had I arrived...".
@@ -64,14 +64,14 @@
  63. "Need" doesn't take -ing: say "I need", not "I am needing".
  64. "Have" (possession) doesn't take -ing: "I have a question", not "I am having a question".
  65. In natural English you "ask someone to do" something, not "request someone to".
- 66. Say "very good" — "very much good" is not natural English.
+ 66. Say "very good" - "very much good" is not natural English.
  67. "Discuss" takes no preposition: "discuss the issue", not "discuss about/on the issue".
  68. The natural phrase is "follow up on" something.
  69. Say "the email below", not "the below email".
  70. "Kindly" is an adverb; before a noun use "kind".
  71. "Delayed" describes things; the noun you want is "delay".
- 72. Use either "ask if" or "ask whether" — not "ask that if".
- 73. "Maybe probably" doubles up — pick one.
+ 72. Use either "ask if" or "ask whether" - not "ask that if".
+ 73. "Maybe probably" doubles up - pick one.
  74. Countable things use "number of", not "amount of".
  75. Countable things use "fewer", not "less".
  76. "One of the..." needs a plural: "one of the best employees".
@@ -111,14 +111,14 @@
 110. Missing word and agreement: "if the client asks".
 111. Missing word: "have an answer".
 112. The subject is "the way" (singular): "the way ... makes it look".
-113. "Herewith" is archaic — "attached" already says it.
+113. "Herewith" is archaic - "attached" already says it.
 114. Possessive needed: "yesterday's meeting".
 115. In natural English, drop "the same": "I will let you know".
 116. Natural phrasing: "get back to me about it".
 117. "Share" goes "share the file with me".
 118. In business English say "a question about", not "a doubt regarding".
 119. "Confirm" takes no person: "please confirm if this is fine".
-120. "ASAP" is an abbreviation — capitalize it (or write "as soon as possible").
+120. "ASAP" is an abbreviation - capitalize it (or write "as soon as possible").
 121. Duration up to now uses "have/has been working here for...".
 122. Started in the past and still true: "has been living ... since 2021".
 123. An earlier past event uses "had already left".
@@ -126,16 +126,16 @@
 125. With a finished time ("yesterday", "last month") use the simple past, not "has".
 126. Future plan + time clause uses the present: "once we receive the update".
 127. Reported speech moves "will" to "would": "he said he would call".
-128. Past story — use "forgot".
+128. Past story - use "forgot".
 129. The idiom is "cut corners" (no "the").
 130. The idiom is "going downhill".
 131. The idiom is "hit the nail on the head".
 132. The idiom is "take it with a grain of salt".
 133. The idiom is "walking on thin ice".
 134. The idiom is "don't put all your eggs in one basket".
-135. The idiom is just "hold water" — no "properly".
+135. The idiom is just "hold water" - no "properly".
 136. The idiom is "barking up the wrong tree".
-137. Two idioms mixed — it's either "spilled the beans" or "let the cat out of the bag".
+137. Two idioms mixed - it's either "spilled the beans" or "let the cat out of the bag".
 138. Missing word: "to the office".
 139. Missing word: "for the job".
 140. Missing word: "make a decision".
@@ -143,21 +143,21 @@
 142. Missing word: "an important update".
 143. Missing word: "for the client".
 144. Field names take no "the": "experience in finance".
-145. "Information" is uncountable — no "an".
-146. Part of the institution's name — capitalize "University".
+145. "Information" is uncountable - no "an".
+146. Part of the institution's name - capitalize "University".
 147. "Interested" takes "in + -ing": "interested in joining".
 148. You wait "for" something: "waiting for your reply".
 149. You arrive "at" a place: "arrived at the airport".
 150. You apologize "to" someone: "she apologized to me".
-151. She is in the class too — say "taller than anyone else in her class".
+151. She is in the class too - say "taller than anyone else in her class".
 152. Compare like with like: "my score was higher than his".
-153. It can't beat itself — "faster than any other app".
-154. "Preferable" already means "more preferred" — no "more".
-155. "Although" already links the two parts — drop the "but/however".
-156. "Because" already links the two parts — drop the "so".
-157. "Unless" already means "if not" — don't add another "not".
-158. Use either "in case" or "if" — not both.
-159. "The reason is that..." — "because" doubles the meaning.
+153. It can't beat itself - "faster than any other app".
+154. "Preferable" already means "more preferred" - no "more".
+155. "Although" already links the two parts - drop the "but/however".
+156. "Because" already links the two parts - drop the "so".
+157. "Unless" already means "if not" - don't add another "not".
+158. Use either "in case" or "if" - not both.
+159. "The reason is that..." - "because" doubles the meaning.
 160. After "Not only", flip the word order: "Not only was the report late...".
 161. Simpler and natural: "I am reviewing the file".
 162. Natural phrasing: "we held the meeting".
